@@ -1,0 +1,21 @@
+.Gif{
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction:column;
+    margin: 20px;
+    width: 100%;
+    padding: 10px;
+    color:black;
+    text-decoration: none;
+
+   
+}
+
+.Gif img{
+    object-fit: contain;
+}
+
+.Gif h4{
+    margin: 15px;
+}
